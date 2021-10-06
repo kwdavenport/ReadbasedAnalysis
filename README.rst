@@ -7,7 +7,7 @@ The Read-based Taxonomy Classification Workflow
 
 Workflow Overview
 -----------------
-The pipeline takes in sequencing files (single- or paired-end) and profiles them using multiple taxonomic classification tools with the Cromwell as the workflow manager.
+The pipeline takes in sequencing files (single- or paired-end) and profiles them using multiple taxonomic classification tools with Cromwell as the workflow manager.
 
 Workflow Availability
 ---------------------
